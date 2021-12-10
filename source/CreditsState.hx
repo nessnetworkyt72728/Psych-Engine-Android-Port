@@ -46,6 +46,12 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
+			["Porter Of the Mod"],
+			[Nibi',		'nibi',	"Original Mod Porter'",	'0xFFF73838'],
+			['Remy And Katon',		'remy',	"Helper '",	
+			,	'0xFFFFBB1B'],
+			['Flamez',		'flames',	"Helper 2 And Sonic Tuber'",	
+			,	'0xFFFFBB1B'],
 			['Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
