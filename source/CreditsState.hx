@@ -25,9 +25,13 @@ class CreditsState extends MusicBeatState
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
 		['Original Port Android by'],
-		['Nibi',				'shubs',			'Main Programmer of Psych Engine Android',			'https://youtube.com/channel/UChPjrBq7z7oSVcB3FcHMDCA',	0xFFF73838],
+		['Nibi',				'nibi',			'Main Coder Of The Port',			'https://youtube.com/channel/UCKb1a_HvYqBHVRk7kvCz83Q',	0xFFF73838],
 		[''],
-		['Psych Engine Team'],
+		['Main Helpers And Friends'],
+		['Remy And Katon',		'remy',		'Main Helper Of The Port',					'https://youtube.com/channel/UCxBKG1LFQM2Kte_BQ0isDww',	0xFFFFDD33],
+		['Flames Overdrive',			'flames',		'Secondary Helper',				'https://youtube.com/c/FlamesOverdrive',		0xFFC30085],
+		[''],
+		['Psychs Engine Creators'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
 		['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		0xFFC30085],
 		[''],
