@@ -1,0 +1,219 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				5
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NoteLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-32
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NoteDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				48
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NoteUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				26
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NoteRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				49
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				2
+			],
+			"anim": "bruh",
+			"fps": 24,
+			"name": "Bruh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "dance Tired"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": true,
+			"name": "Left Tired"
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": true,
+			"name": "Right Tired"
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": true,
+			"name": "Up tired"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": true,
+			"name": "down tired"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "oh no",
+			"loop": false,
+			"name": "oh no"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nonsense",
+	"position": [
+		-60,
+		140
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		215,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
