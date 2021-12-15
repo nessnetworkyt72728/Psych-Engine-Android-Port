@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				76
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle pissed",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Pissed"
+		},
+		{
+			"offsets": [
+				0,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Pissed"
+		},
+		{
+			"offsets": [
+				14,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pissed Down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				71
+			],
+			"anim": "Mad",
+			"fps": 24,
+			"name": "pissed mid-song",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				68
+			],
+			"anim": "Lol",
+			"fps": 24,
+			"name": "takethat",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Mad idle",
+			"loop": true,
+			"name": "Mad Idle"
+		},
+		{
+			"offsets": [
+				0,
+				75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "MAD up"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": true,
+			"name": "Mad down"
+		},
+		{
+			"offsets": [
+				0,
+				73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": true,
+			"name": "MadRight"
+		},
+		{
+			"offsets": [
+				40,
+				84
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "pissed left"
+		},
+		{
+			"offsets": [
+				0,
+				49
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singLEFT-alt",
+			"loop": true,
+			"name": "Mad Left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/nonsense angry",
+	"position": [
+		150,
+		190
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		255,
+		255
+	],
+	"camera_position": [
+		-160,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
